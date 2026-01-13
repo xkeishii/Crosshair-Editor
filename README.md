@@ -1,2 +1,2 @@
-# Crosshair-gratos
-crosshair X mais fais maison
+# Free crosshair Editor
+uhhhh its cool, uhhhh its free (i tink...)
