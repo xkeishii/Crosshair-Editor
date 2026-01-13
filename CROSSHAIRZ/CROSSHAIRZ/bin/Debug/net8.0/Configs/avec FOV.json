@@ -1,0 +1,35 @@
+{
+  "MenuColor": {
+    "X": 1,
+    "Y": 0.61764705,
+    "Z": 0.61764705,
+    "W": 1
+  },
+  "ToggleKey": 112,
+  "ShowLines": true,
+  "ShowDot": false,
+  "Thickness": 3.063,
+  "DotSize": 3,
+  "Length": 3,
+  "Gap": 1.46,
+  "TShape": false,
+  "Outline": true,
+  "CrosshairColor": {
+    "X": 0.38039216,
+    "Y": 1,
+    "Z": 0,
+    "W": 1
+  },
+  "RainbowCrosshair": false,
+  "RainbowCrossSpeed": 1,
+  "ShowFov": true,
+  "FovSize": 146.334,
+  "FovColor": {
+    "X": 1,
+    "Y": 0,
+    "Z": 1,
+    "W": 1
+  },
+  "RainbowFov": false,
+  "RainbowFovSpeed": 1
+}
